@@ -15,6 +15,7 @@ export default function LogIn() {
                <Link to="/logInForm"> <button tupe="button" className="log-in-btn">Log In</button> </Link>
                 <Link to="/signInForm">  <button tupe="button" className="sign-in-btn">Sign In</button> </Link>
                 <img src="src\Components\Group 21 (1).png" alt="background" className="backg-img" />
+                <Link to="/search">  <button tupe="button" className="sign-in-btn search-btn">Search</button> </Link>
             </div>
         </>
     )

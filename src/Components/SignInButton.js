@@ -16,7 +16,7 @@ export default function SignInButton() {
                 <input type="text" className="log-in-input sign-in-user" placeholder="Set a Username"/>
                 <input type="password" className="log-in-input pass-sign-input" placeholder="Password"/>
                 
-                <button className="log-in-box-btn sign-box-btn">Sign In</button>
+                <button className="log-in-box-btn sign-box-btn">Create a new account</button>
                 <div className="need-acc">Already have an account? <Link to="/logInForm">Log In</Link> </div>
                 </div>
             </div>

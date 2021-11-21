@@ -52,6 +52,11 @@
     position:absolute;
     left:220px;
 }
+.search-btn{
+    position:absolute;
+    top:460px;
+    left:140px;
+}
 .backg-img{
     width:450px;
     height:400px;
